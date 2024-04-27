@@ -1,0 +1,42 @@
+.custom-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#div1 {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: cadetblue;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+#div2 {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+#div3 {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: cadetblue;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
